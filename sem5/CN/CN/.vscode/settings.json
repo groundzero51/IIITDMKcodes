@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stdbool.h": "c",
+        "__config": "c",
+        "__tuple": "c",
+        "bit": "c",
+        "istream": "c",
+        "locale": "c",
+        "string": "c",
+        "unordered_map": "c"
+    }
+}
